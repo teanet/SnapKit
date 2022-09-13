@@ -1,4 +1,4 @@
-<img src="http://snapkit.io/images/banner.jpg" alt="" />
+<img src="https://snapkit.github.io/SnapKit/images/banner.jpg" alt="" />
 
 SnapKit is a DSL to make Auto Layout easy on both iOS and OS X.
 
@@ -25,6 +25,10 @@ SnapKit is a DSL to make Auto Layout easy on both iOS and OS X.
 - iOS 10.0+ / Mac OS X 10.12+ / tvOS 10.0+
 - Xcode 10.0+
 - Swift 4.0+
+
+## Migration Guides
+
+- [SnapKit 3.0 Migration Guide](Documentation/SnapKit%203.0%20Migration%20Guide.md)
 
 ## Communication
 
@@ -55,7 +59,7 @@ platform :ios, '10.0'
 use_frameworks!
 
 target '<Your Target Name>' do
-    pod 'SnapKit', '~> 5.0.0'
+    pod 'SnapKit', '~> 5.6.0'
 end
 ```
 
@@ -138,8 +142,8 @@ You can try SnapKit in Playground.
 
 ### Resources
 
-- [Documentation](http://snapkit.io/docs/)
-- [F.A.Q.](http://snapkit.io/faq/)
+- [Documentation](https://snapkit.github.io/SnapKit/docs/)
+- [F.A.Q.](https://snapkit.github.io/SnapKit/faq/)
 
 ## Credits
 
